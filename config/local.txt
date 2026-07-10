@@ -5,4 +5,4 @@
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
 
-https://raw.githubusercontent.com/hubeiyaowenping17/iptv-api/refs/heads/master/miguyuan.m3u
+https://raw.githubusercontent.com/hubeiyaowenping17/iptv-api/refs/heads/gd/config/miguyuan.m3u
